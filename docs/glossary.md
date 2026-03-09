@@ -34,3 +34,4 @@ Fairness in access to resources, opportunities, and outcomes.
 A shared effort driven by people, ideas, and purpose — not by hierarchy or institutions.
 
 This glossary exists to help all of us speak a common language as we build this movement together.
+[← Back to homepage](index.html)
