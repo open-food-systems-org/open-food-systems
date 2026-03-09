@@ -32,3 +32,4 @@ Believing in a better world is not naïve — it is the first step toward buildi
 
 These foundations guide our movement as it grows, evolves, and adapts.  
 They remind us who we are, what we stand for, and why we choose to build this future together.
+[← Back to homepage](index.html)
