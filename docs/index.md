@@ -29,3 +29,4 @@ This site is in its early stages. More pages will be added soon.
 [Contact →](contact.html)
 [Founders’ Note →](founders-note.html)
 [Glossary →](glossary.html)
+[Values →](values.html)
