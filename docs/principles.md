@@ -31,3 +31,4 @@ Technology is powerful.
 We use it with care, humility, and accountability.
 
 These principles will evolve as the movement grows, but their spirit will remain constant.
+[← Back to homepage](index.html)
