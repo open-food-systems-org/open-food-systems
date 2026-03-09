@@ -37,3 +37,4 @@ People from everywhere — individuals, communities, researchers, technologists,
 
 Open Food Systems belongs to all of us.  
 This is our shared beginning.
+[← Back to homepage](index.html)
