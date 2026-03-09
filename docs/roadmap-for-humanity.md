@@ -36,3 +36,4 @@ We may not see every milestone in our lifetime —
 but we begin the journey so future generations can continue it.
 
 This is our shared horizon.
+[← Back to homepage](index.html)
