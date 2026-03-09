@@ -30,3 +30,4 @@ Promote compassion, solidarity, and shared responsibility as core values in how 
 
 These goals are not endpoints.  
 They are commitments — a shared direction for all of us working toward a more just and nourished world.
+[← Back to homepage](index.html)
