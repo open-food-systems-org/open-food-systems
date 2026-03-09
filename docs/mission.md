@@ -20,3 +20,4 @@ to explore how open knowledge, open technology, and global collaboration can hel
 ## Why this matters
 Food is not just a resource — it is a human right.  
 A world without hunger is possible when people choose to build it together.
+[← Back to homepage](index.html)
