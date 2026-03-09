@@ -20,3 +20,4 @@ This site is in its early stages. More pages will be added soon.
 [Mission →](mission.html)
 [Vision →](vision.html)
 [Principles →](principles.html)
+[Community →](community.html)
