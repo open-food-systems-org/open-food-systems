@@ -23,3 +23,4 @@ This site is in its early stages. More pages will be added soon.
 [Community →](community.html)
 [How It Works →](how-it-works.html)
 [Get Involved →](get-involved.html)
+[Resources →](resources.html)
