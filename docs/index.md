@@ -27,3 +27,4 @@ This site is in its early stages. More pages will be added soon.
 [About Us →](about-us.html)
 [FAQ →](faq.html)
 [Contact →](contact.html)
+[Founders’ Note →](founders-note.html)
