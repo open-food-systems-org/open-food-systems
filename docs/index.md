@@ -30,3 +30,4 @@ This site is in its early stages. More pages will be added soon.
 [Founders’ Note →](founders-note.html)
 [Glossary →](glossary.html)
 [Values →](values.html)
+[Roadmap for Humanity →](roadmap-for-humanity.html)
