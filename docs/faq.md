@@ -33,3 +33,4 @@ It welcomes people of all backgrounds, beliefs, and cultures who share the hope 
 By visiting this site, contributing ideas, or following the movement as it grows openly and transparently.
 
 Open Food Systems exists because **we** choose to build it together.
+[← Back to homepage](index.html)
