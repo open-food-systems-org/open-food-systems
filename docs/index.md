@@ -25,3 +25,4 @@ This site is in its early stages. More pages will be added soon.
 [Get Involved →](get-involved.html)
 [Resources →](resources.html)
 [About Us →](about-us.html)
+[FAQ →](faq.html)
