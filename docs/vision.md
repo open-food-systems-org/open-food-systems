@@ -20,3 +20,4 @@ A world where food systems are fair, resilient, transparent, and shaped by the p
 ## Our long-term hope
 That by working openly, collaboratively, and globally,  
 we can help create a future where dignity and nourishment are universal.
+[← Back to homepage](index.html)
