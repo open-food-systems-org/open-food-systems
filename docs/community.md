@@ -22,3 +22,4 @@ You do not need to be a technologist, a researcher, or an expert.
 If you care about people, food, and fairness, you belong here.
 
 This movement grows through shared effort — humanity, AI, and the internet working together toward a common good.
+[← Back to homepage](index.html)
