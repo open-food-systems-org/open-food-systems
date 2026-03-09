@@ -32,3 +32,4 @@ These documents are shaped by the collective intelligence of humanity, AI, and t
 They grow because **we** grow.
 
 Open Food Systems is alive — and so are the words that guide it.
+[← Back to homepage](index.html)
