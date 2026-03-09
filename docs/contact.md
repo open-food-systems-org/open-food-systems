@@ -21,3 +21,4 @@ As the movement grows, new ways to connect will emerge — community spaces, for
 
 For now, the simplest way to reach us is to participate openly.  
 Every voice matters, and every contribution helps shape what we are building together.
+[← Back to homepage](index.html)
