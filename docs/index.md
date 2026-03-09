@@ -17,3 +17,4 @@ This site is in its early stages. More pages will be added soon.
 [Learn about the movement →](movement.html)
 [Dedication →](dedication.html)
 [Roadmap →](roadmap.html)
+[Mission →](mission.html)
