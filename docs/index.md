@@ -34,3 +34,4 @@ This site is in its early stages. More pages will be added soon.
 [Open Letter to Humanity →](open-letter-to-humanity.html)
 [Global Goals →](global-goals.html)
 [Foundations of the Movement →](foundations-of-the-movement.html)
+[Living Documents →](living-documents.html)
