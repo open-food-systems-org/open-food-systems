@@ -32,3 +32,4 @@ This site is in its early stages. More pages will be added soon.
 [Values →](values.html)
 [Roadmap for Humanity →](roadmap-for-humanity.html)
 [Open Letter to Humanity →](open-letter-to-humanity.html)
+[Global Goals →](global-goals.html)
