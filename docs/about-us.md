@@ -32,3 +32,4 @@ Tools that empower communities.
 A global network of people who care.
 
 Open Food Systems exists because **we** choose to build it together.
+[← Back to homepage](index.html)
