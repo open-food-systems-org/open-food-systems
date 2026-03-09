@@ -30,3 +30,4 @@ You don’t need permission.
 You simply need to care — and to act.
 
 Every contribution, no matter how small, strengthens the movement.
+[← Back to homepage](index.html)
