@@ -32,3 +32,4 @@ Hope is not naïve — it is a commitment to action.
 
 These values are not fixed.  
 They evolve as **we** evolve, as our movement grows, and as we learn from one another.
+[← Back to homepage](index.html)
