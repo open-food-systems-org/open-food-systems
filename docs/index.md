@@ -31,3 +31,4 @@ This site is in its early stages. More pages will be added soon.
 [Glossary →](glossary.html)
 [Values →](values.html)
 [Roadmap for Humanity →](roadmap-for-humanity.html)
+[Open Letter to Humanity →](open-letter-to-humanity.html)
