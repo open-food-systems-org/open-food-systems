@@ -10,3 +10,4 @@ This project exists in the spirit of:
 
 Hunger is not inevitable.  
 A better world is possible when people choose to build it together.
+[← Back to homepage](index.html)
