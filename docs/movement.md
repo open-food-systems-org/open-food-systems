@@ -26,3 +26,4 @@ This movement is just beginning.
 More pages, ideas, and contributions will be added as the project grows.
 
 If you are reading this, you are early — and you are welcome here.
+[← Back to homepage](index.html)
