@@ -24,3 +24,4 @@ This is a growing collection.
 As we discover new insights, tools, and ideas, we add them here — openly and freely.
 
 Knowledge becomes more powerful when **we** share it.
+[← Back to homepage](index.html)
