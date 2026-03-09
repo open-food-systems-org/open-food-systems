@@ -18,3 +18,4 @@ This site is in its early stages. More pages will be added soon.
 [Dedication →](dedication.html)
 [Roadmap →](roadmap.html)
 [Mission →](mission.html)
+[Vision →](vision.html)
