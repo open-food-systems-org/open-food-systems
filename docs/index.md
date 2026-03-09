@@ -21,3 +21,4 @@ This site is in its early stages. More pages will be added soon.
 [Vision →](vision.html)
 [Principles →](principles.html)
 [Community →](community.html)
+[How It Works →](how-it-works.html)
