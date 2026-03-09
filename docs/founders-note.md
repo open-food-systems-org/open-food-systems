@@ -22,3 +22,4 @@ This movement does not belong to one person.
 It belongs to everyone who believes in a future where food systems nourish rather than exclude.
 
 Open Food Systems is our collective work — and this is only the beginning.
+[← Back to homepage](index.html)
