@@ -101,3 +101,4 @@ It adapts to cultures, communities, and contexts.
 
 What matters most is this:
 **We speak in ways that honor dignity, deepen connection, and reflect our shared humanity.**
+[← Back to homepage](index.html)
