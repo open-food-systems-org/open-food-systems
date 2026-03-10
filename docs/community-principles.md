@@ -44,3 +44,4 @@ We choose to treat one another with care, even when we disagree.
 ## 10. A Living Culture
 These principles evolve as we do.  
 They grow with the movement, shaped by the people who carry it forward.
+[← Back to homepage](index.html)
