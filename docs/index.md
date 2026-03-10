@@ -1,10 +1,19 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Open Food Systems</title>
     <style>
+        :root {
+            --primary-color: #1a3b2f;
+            --secondary-color: #4a4a4a;
+            --light-color: #faf9f7;
+            --accent-color: #e8f0ed;
+            --text-color: #2d2d2d;
+            --border-color: #eaeaea;
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -12,502 +21,289 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            line-height: 1.6;
-            color: #1a1a1a;
-            background-color: #faf9f7;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            background-color: var(--light-color);
         }
 
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 2rem;
+            padding: 0 2rem;
         }
 
         header {
             text-align: center;
-            padding: 4rem 1rem 2rem;
-            background-color: #ffffff;
-            border-bottom: 1px solid #e5e5e5;
+            padding: 4rem 0 3rem;
+            background-color: white;
+            margin-bottom: 2rem;
+            border-bottom: 1px solid var(--border-color);
         }
 
         h1 {
             font-size: 3rem;
-            font-weight: 400;
-            letter-spacing: -0.02em;
+            font-weight: 300;
+            color: var(--primary-color);
             margin-bottom: 1rem;
-            color: #1a3b2f;
+            letter-spacing: -0.03em;
         }
 
         .subhead {
             font-size: 1.5rem;
-            font-weight: 300;
+            color: var(--secondary-color);
             max-width: 800px;
             margin: 0 auto;
-            color: #4a4a4a;
+            font-weight: 300;
         }
 
         .intro {
             max-width: 800px;
             margin: 3rem auto;
-            font-size: 1.25rem;
             text-align: center;
-            color: #2d2d2d;
+            font-size: 1.2rem;
+            color: var(--secondary-color);
         }
 
-        .pillars {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin: 4rem 0;
-        }
-
-        .pillar {
-            background: white;
-            padding: 2rem;
+        .section {
+            background-color: white;
             border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-            border: 1px solid #eaeaea;
+            padding: 3rem;
+            margin: 3rem 0;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
         }
 
-        .pillar h3 {
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-            color: #1a3b2f;
-            font-weight: 500;
-        }
-
-        .pillar p {
-            color: #4a4a4a;
-            margin-bottom: 1.5rem;
-        }
-
-        .pillar-link {
-            color: #1a3b2f;
-            text-decoration: none;
-            font-weight: 500;
-            border-bottom: 1px solid transparent;
-            transition: border-color 0.2s;
-        }
-
-        .pillar-link:hover {
-            border-bottom-color: #1a3b2f;
-        }
-
-        .core-text {
-            max-width: 800px;
-            margin: 4rem auto;
-            padding: 2rem;
-            background-color: #ffffff;
-            border-radius: 12px;
-            border: 1px solid #eaeaea;
-        }
-
-        .core-text h2 {
+        .section h2 {
             font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
             font-weight: 400;
-            margin-bottom: 1.5rem;
-            color: #1a3b2f;
+            text-align: center;
         }
 
-        .core-text p {
-            margin-bottom: 1.5rem;
+        .section p {
             font-size: 1.1rem;
-            color: #2d2d2d;
+            margin-bottom: 1.5rem;
+            color: var(--text-color);
         }
 
-        .values {
+        .principles-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 2rem;
-            margin: 4rem 0;
+            margin: 3rem 0;
+        }
+
+        .principle-card {
             text-align: center;
-        }
-
-        .value-item {
             padding: 1.5rem;
+            background-color: var(--accent-color);
+            border-radius: 8px;
         }
 
-        .value-item h4 {
-            font-size: 1.25rem;
-            margin-bottom: 0.5rem;
-            color: #1a3b2f;
+        .principle-card h4 {
+            font-size: 1.2rem;
+            color: var(--primary-color);
+            margin-bottom: 0.75rem;
             font-weight: 500;
         }
 
-        .value-item p {
-            color: #666;
+        .principle-card p {
+            color: var(--secondary-color);
             font-size: 0.95rem;
         }
 
-        .sections {
-            margin: 4rem 0;
-        }
-
-        .section-category {
-            margin-bottom: 2.5rem;
-        }
-
-        .section-category h3 {
-            font-size: 1.5rem;
-            font-weight: 500;
-            margin-bottom: 1rem;
-            color: #1a3b2f;
-            border-bottom: 1px solid #eaeaea;
-            padding-bottom: 0.5rem;
-        }
-
-        .section-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 1rem;
-            margin-top: 1rem;
-        }
-
-        .section-link {
-            display: block;
-            padding: 1rem;
-            background: white;
-            border: 1px solid #eaeaea;
+        .highlight-box {
+            background-color: var(--accent-color);
+            border-left: 4px solid var(--primary-color);
+            padding: 2rem;
+            margin: 3rem 0;
             border-radius: 8px;
-            text-decoration: none;
-            color: #1a3b2f;
-            transition: all 0.2s;
         }
 
-        .section-link:hover {
-            background: #f0f5f2;
-            border-color: #1a3b2f;
-            transform: translateY(-2px);
+        .highlight-box h3 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
         }
 
-        .section-link small {
-            display: block;
-            color: #666;
-            font-size: 0.85rem;
-            margin-top: 0.25rem;
+        .highlight-box p {
+            margin-bottom: 1rem;
+            color: var(--text-color);
+        }
+
+        .invitation {
+            text-align: center;
+            padding: 4rem 2rem;
+            background-color: white;
+            border-radius: 12px;
+            margin: 3rem 0;
+            border: 1px solid var(--border-color);
+        }
+
+        .invitation h2 {
+            font-size: 2.2rem;
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            font-weight: 300;
+        }
+
+        .invitation p {
+            font-size: 1.1rem;
+            color: var(--secondary-color);
+            max-width: 600px;
+            margin: 0 auto 2rem;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.75rem;
+            margin: 2rem 0;
+        }
+
+        .tag {
+            background-color: var(--border-color);
+            color: var(--secondary-color);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
         }
 
         footer {
             text-align: center;
             padding: 3rem 0;
             margin-top: 3rem;
-            border-top: 1px solid #e5e5e5;
-            color: #666;
+            border-top: 1px solid var(--border-color);
+            color: var(--secondary-color);
         }
 
-        @media (max-width: 600px) {
+        @media (max-width: 768px) {
             h1 {
-                font-size: 2.25rem;
+                font-size: 2.2rem;
             }
-
             .subhead {
-                font-size: 1.25rem;
+                font-size: 1.2rem;
             }
-
-            .container {
-                padding: 1rem;
+            .section {
+                padding: 2rem 1.5rem;
             }
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Open Food Systems</h1>
-        <div class="subhead">A humane, gradual, and inclusive evolution of how humanity produces, shares, and experiences food.</div>
+        <div class="container">
+            <h1>Open Food Systems</h1>
+            <div class="subhead">
+                A humane, gradual, and inclusive evolution of how humanity produces, shares, and experiences food.
+            </div>
+        </div>
     </header>
 
     <div class="container">
         <div class="intro">
-            <p>Open Food Systems is a global movement rooted in dignity, care, and shared humanity. It exists to create a world where everyone has access to nourishing food, meaningful connection, and the experience of being seen and valued.</p>
+            <p>
+                Open Food Systems is a global movement rooted in dignity, care, and shared humanity.
+                It exists to create a world where everyone has access to nourishing food, meaningful connection,
+                and the experience of being seen and valued.
+            </p>
         </div>
 
-        <div class="pillars">
-            <div class="pillar">
-                <h3>Movement Overview</h3>
-                <p>The philosophy and vision that guides everything—dignity, gradualism, inclusion, and respect for tradition.</p>
-                <a href="docs/movement-overview.html" class="pillar-link">Read the overview →</a>
-            </div>
-
-            <div class="pillar">
-                <h3>Future Food Technologies</h3>
-                <p>The technological ecosystem that may support the next evolution: printers, cartridges, cultivated protein, fermentation, and more.</p>
-                <a href="docs/future-food-technologies.html" class="pillar-link">Explore technologies →</a>
-            </div>
-
-            <div class="pillar">
-                <h3>Adaptation Pathways</h3>
-                <p>How existing industries evolve gently—farms, supermarkets, restaurants, manufacturing, and every sector of the food economy.</p>
-                <a href="docs/adaptation-pathways.html" class="pillar-link">See the pathways →</a>
-            </div>
-        </div>
-
-        <div class="core-text">
+        <div class="section">
             <h2>What This Movement Is</h2>
-            <p>Open Food Systems is a human-centered movement, a constellation of local actions, a culture of dignity and care, and a network of Community Circles. It is guided by shared practices and principles, and it lives as a living ecosystem shaped by the people within it.</p>
-
-            <p>It is not an organization, a charity, or a program. There are no leaders, no ranks, no membership. The movement grows through relationships, not structures.</p>
-
-            <p>The movement exists to restore dignity where it has been diminished, to address hunger through human connection, to strengthen communities through shared meals, to create spaces of belonging, to cultivate solidarity rather than charity, and to reimagine food systems through care and presence.</p>
-
-            <p>Its purpose is both simple and profound: to make dignity a lived experience.</p>
+            <p>
+                Open Food Systems is a human-centered movement, a constellation of local actions, a culture of dignity and care,
+                and a network of Community Circles. It is guided by shared practices and principles, and it lives as a living
+                ecosystem shaped by the people within it.
+            </p>
+            <p>
+                It is not an organization, a charity, or a program. There are no leaders, no ranks, no membership.
+                The movement grows through relationships, not structures.
+            </p>
+            <p>
+                The movement exists to restore dignity where it has been diminished, to address hunger through human
+                connection, to strengthen communities through shared meals, to create spaces of belonging, to cultivate
+                solidarity rather than charity, and to reimagine food systems through care and presence.
+            </p>
+            <p>
+                Its purpose is both simple and profound: to make dignity a lived experience.
+            </p>
         </div>
 
-        <h2 style="font-size: 2rem; font-weight: 400; margin: 3rem 0 1rem; color: #1a3b2f; text-align: center;">Guiding Principles</h2>
-
-        <div class="values">
-            <div class="value-item">
-                <h4>Dignity</h4>
-                <p>Every person is worthy of respect and care.</p>
-            </div>
-            <div class="value-item">
-                <h4>Care</h4>
-                <p>Small, human acts shape the world.</p>
-            </div>
-            <div class="value-item">
-                <h4>Humanity</h4>
-                <p>Connection is essential to wellbeing.</p>
-            </div>
-            <div class="value-item">
-                <h4>Openness</h4>
-                <p>The movement belongs to everyone.</p>
-            </div>
-            <div class="value-item">
-                <h4>Humility</h4>
-                <p>The work is done without ego or hierarchy.</p>
-            </div>
-        </div>
-
-        <div class="core-text" style="background-color: #f0f5f2;">
-            <h2>Traditional Food Remains Central</h2>
-            <p>The movement does <strong>not</strong> eliminate farms, vegetables, grains, legumes, fruits, herbs, spices, home cooking, cultural dishes, or family recipes. People will still cook the way they always have. Future food simply adds new options.</p>
-
-            <p style="margin-top: 1.5rem;"><a href="docs/movement-overview.html" style="color: #1a3b2f;">Read the full Movement Overview →</a></p>
-        </div>
-
-        <div class="sections">
-            <h2 style="font-size: 1.75rem; font-weight: 400; margin-bottom: 1rem; color: #1a3b2f;">Explore All Pages</h2>
-
-            <!-- Core Movement -->
-            <div class="section-category">
-                <h3>Core Movement</h3>
-                <div class="section-grid">
-                    <a href="docs/movement-overview.html" class="section-link">
-                        Movement Overview
-                        <small></small>
-                    </a>
-                    <a href="docs/mission.html" class="section-link">
-                        Mission
-                        <small></small>
-                    </a>
-                    <a href="docs/vision.html" class="section-link">
-                        Vision
-                        <small></small>
-                    </a>
-                    <a href="docs/principles.html" class="section-link">
-                        Principles
-                        <small></small>
-                    </a>
-                    <a href="docs/values.html" class="section-link">
-                        Values
-                        <small></small>
-                    </a>
-                    <a href="docs/why-this-matters.html" class="section-link">
-                        Why This Matters
-                        <small></small>
-                    </a>
-                    <a href="docs/the-movement-in-one-page.html" class="section-link">
-                        The Movement in One Page
-                        <small></small>
-                    </a>
+        <div class="section">
+            <h2>Guiding Principles</h2>
+            <div class="principles-grid">
+                <div class="principle-card">
+                    <h4>Dignity</h4>
+                    <p>Every person is worthy of respect and care.</p>
                 </div>
-            </div>
-
-            <!-- Community & Participation -->
-            <div class="section-category">
-                <h3>Community & Participation</h3>
-                <div class="section-grid">
-                    <a href="docs/community.html" class="section-link">
-                        Community
-                        <small></small>
-                    </a>
-                    <a href="docs/community-circles.html" class="section-link">
-                        Community Circles
-                        <small></small>
-                    </a>
-                    <a href="docs/global-map-of-circles.html" class="section-link">
-                        Global Map of Circles
-                        <small></small>
-                    </a>
-                    <a href="docs/community-principles.html" class="section-link">
-                        Community Principles
-                        <small></small>
-                    </a>
-                    <a href="docs/get-involved.html" class="section-link">
-                        Get Involved
-                        <small></small>
-                    </a>
-                    <a href="docs/how-to-contribute.html" class="section-link">
-                        How to Contribute
-                        <small></small>
-                    </a>
-                    <a href="docs/pathways-of-participation.html" class="section-link">
-                        Pathways of Participation
-                        <small></small>
-                    </a>
+                <div class="principle-card">
+                    <h4>Care</h4>
+                    <p>Small, human acts shape the world.</p>
                 </div>
-            </div>
-
-            <!-- Resources & Practices -->
-            <div class="section-category">
-                <h3>Resources & Practices</h3>
-                <div class="section-grid">
-                    <a href="docs/resources.html" class="section-link">
-                        Resources
-                        <small></small>
-                    </a>
-                    <a href="docs/acts-of-care.html" class="section-link">
-                        Acts of Care
-                        <small></small>
-                    </a>
-                    <a href="docs/stories-of-care.html" class="section-link">
-                        Stories of Care
-                        <small></small>
-                    </a>
-                    <a href="docs/movement-practices.html" class="section-link">
-                        Movement Practices
-                        <small></small>
-                    </a>
-                    <a href="docs/movement-symbols.html" class="section-link">
-                        Movement Symbols
-                        <small></small>
-                    </a>
-                    <a href="docs/movement-language.html" class="section-link">
-                        Movement Language
-                        <small></small>
-                    </a>
-                    <a href="docs/glossary.html" class="section-link">
-                        Glossary
-                        <small></small>
-                    </a>
+                <div class="principle-card">
+                    <h4>Humanity</h4>
+                    <p>Connection is essential to wellbeing.</p>
                 </div>
-            </div>
-
-            <!-- Future & Evolution -->
-            <div class="section-category">
-                <h3>Future & Evolution</h3>
-                <div class="section-grid">
-                    <a href="docs/future-food-technologies.html" class="section-link">
-                        Future Food Technologies
-                        <small></small>
-                    </a>
-                    <a href="docs/adaptation-pathways.html" class="section-link">
-                        Adaptation Pathways
-                        <small></small>
-                    </a>
-                    <a href="docs/roadmap.html" class="section-link">
-                        Roadmap
-                        <small></small>
-                    </a>
-                    <a href="docs/roadmap-for-humanity.html" class="section-link">
-                        Roadmap for Humanity
-                        <small></small>
-                    </a>
-                    <a href="docs/open-letter-to-humanity.html" class="section-link">
-                        Open Letter to Humanity
-                        <small></small>
-                    </a>
-                    <a href="docs/global-goals.html" class="section-link">
-                        Global Goals
-                        <small></small>
-                    </a>
-                    <a href="docs/movement-evolution.html" class="section-link">
-                        Movement Evolution
-                        <small></small>
-                    </a>
+                <div class="principle-card">
+                    <h4>Openness</h4>
+                    <p>The movement belongs to everyone.</p>
                 </div>
-            </div>
-
-            <!-- About & Foundations -->
-            <div class="section-category">
-                <h3>About & Foundations</h3>
-                <div class="section-grid">
-                    <a href="docs/about-us.html" class="section-link">
-                        About Us
-                        <small></small>
-                    </a>
-                    <a href="docs/founders-note.html" class="section-link">
-                        Founders' Note
-                        <small></small>
-                    </a>
-                    <a href="docs/foundations-of-the-movement.html" class="section-link">
-                        Foundations of the Movement
-                        <small></small>
-                    </a>
-                    <a href="docs/living-documents.html" class="section-link">
-                        Living Documents
-                        <small></small>
-                    </a>
-                    <a href="docs/movement-framework.html" class="section-link">
-                        Movement Framework
-                        <small></small>
-                    </a>
-                    <a href="docs/movement-ethos.html" class="section-link">
-                        Movement Ethos
-                        <small></small>
-                    </a>
-                    <a href="docs/movement-constellation.html" class="section-link">
-                        Movement Constellation
-                        <small></small>
-                    </a>
-                </div>
-            </div>
-
-            <!-- Support & Contact -->
-            <div class="section-category">
-                <h3>Support & Contact</h3>
-                <div class="section-grid">
-                    <a href="docs/faq.html" class="section-link">
-                        FAQ
-                        <small></small>
-                    </a>
-                    <a href="docs/contact.html" class="section-link">
-                        Contact
-                        <small></small>
-                    </a>
-                    <a href="docs/dedication.html" class="section-link">
-                        Dedication
-                        <small></small>
-                    </a>
+                <div class="principle-card">
+                    <h4>Humility</h4>
+                    <p>The work is done without ego or hierarchy.</p>
                 </div>
             </div>
         </div>
 
-        <div style="text-align: center; margin: 4rem 0; padding: 2rem; background-color: #ffffff; border-radius: 12px; border: 1px solid #eaeaea;">
-            <h2 style="font-size: 2rem; font-weight: 400; margin-bottom: 1rem; color: #1a3b2f;">The Movement Is an Invitation</h2>
-            <p style="max-width: 600px; margin: 0 auto 2rem; font-size: 1.1rem; color: #4a4a4a;">To care, to connect, to belong, and to help build a world rooted in dignity.</p>
-
-            <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-                <span style="background: #eaeaea; padding: 0.5rem 1rem; border-radius: 30px; font-size: 0.9rem;">share a meal</span>
-                <span style="background: #eaeaea; padding: 0.5rem 1rem; border-radius: 30px; font-size: 0.9rem;">offer a small act of care</span>
-                <span style="background: #eaeaea; padding: 0.5rem 1rem; border-radius: 30px; font-size: 0.9rem;">join a Community Circle</span>
-                <span style="background: #eaeaea; padding: 0.5rem 1rem; border-radius: 30px; font-size: 0.9rem;">read a story</span>
-                <span style="background: #eaeaea; padding: 0.5rem 1rem; border-radius: 30px; font-size: 0.9rem;">learn about food systems</span>
-                <span style="background: #eaeaea; padding: 0.5rem 1rem; border-radius: 30px; font-size: 0.9rem;">create something for the movement</span>
-            </div>
-
-            <p style="margin-top: 2rem; color: #666;">There is no threshold. No onboarding. No permission needed.</p>
-            <p style="font-style: italic; color: #1a3b2f;">The movement begins with a single human moment.</p>
+        <div class="highlight-box">
+            <h3>Traditional Food Remains Central</h3>
+            <p>
+                The movement does <strong>not</strong> eliminate farms, vegetables, grains, legumes, fruits, herbs, spices,
+                home cooking, cultural dishes, or family recipes. People will still cook the way they always have.
+                Future food simply adds new options.
+            </p>
         </div>
 
-        <div style="text-align: center; padding: 2rem;">
-            <p style="color: #666; max-width: 600px; margin: 0 auto;">Open Food Systems is not fixed. It evolves through the people who carry it, the communities that shape it, and the stories that sustain it.</p>
+        <div class="invitation">
+            <h2>The Movement Is an Invitation</h2>
+            <p>
+                To care, to connect, to belong, and to help build a world rooted in dignity.
+            </p>
+            <div class="tags">
+                <span class="tag">share a meal</span>
+                <span class="tag">offer a small act of care</span>
+                <span class="tag">join a Community Circle</span>
+                <span class="tag">read a story</span>
+                <span class="tag">learn about food systems</span>
+                <span class="tag">create something for the movement</span>
+            </div>
+            <p>
+                There is no threshold. No onboarding. No permission needed.
+            </p>
+            <p style="font-style: italic; color: var(--primary-color);">
+                The movement begins with a single human moment.
+            </p>
+        </div>
+
+        <div style="text-align: center; margin: 4rem 0; color: var(--secondary-color);">
+            <p>
+                Open Food Systems is not fixed. It evolves through the people who carry it,
+                the communities that shape it, and the stories that sustain it.
+            </p>
         </div>
     </div>
 
     <footer>
-        <p>Open Food Systems — a living movement rooted in dignity and care.</p>
-        <p style="margin-top: 1rem; font-size: 0.875rem;">The movement belongs to everyone. No leaders, no membership, no permission needed.</p>
+        <div class="container">
+            <p>Open Food Systems — a living movement rooted in dignity and care.</p>
+            <p style="margin-top: 1rem; font-size: 0.9rem;">
+                The movement belongs to everyone. No leaders, no membership, no permission needed.
+            </p>
+        </div>
     </footer>
 </body>
 </html>
