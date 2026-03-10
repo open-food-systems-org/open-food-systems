@@ -90,6 +90,7 @@ in a single act, a season of life, or a lifetime of participation.
 There is no “arrival.”  
 No final stage.  
 No completion.
+[← Back to homepage](index.html)
 
 The journey is simply this:
 **to live with dignity,  
