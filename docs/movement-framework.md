@@ -88,3 +88,4 @@ Its purpose is simple:
 to help people see the whole,  
 understand the connections,  
 and walk with clarity and intention.
+[← Back to homepage](index.html)
