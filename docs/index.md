@@ -43,3 +43,4 @@ This site is in its early stages. More pages will be added soon.
 [Community Circles →](community-circles.html)
 [Global Map of Circles →](global-map-of-circles.html)
 [Stories of Care →](stories-of-care.html)
+[Movement Practices →](movement-practices.html)
