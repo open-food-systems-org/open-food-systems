@@ -79,3 +79,4 @@ It is not perfect.
 It is alive — shaped by the people who walk within it,  
 guided by dignity,  
 and evolving through care.
+[← Back to homepage](index.html)
