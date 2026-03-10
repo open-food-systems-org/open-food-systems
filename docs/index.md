@@ -40,3 +40,4 @@ This site is in its early stages. More pages will be added soon.
 [How to Contribute →](how-to-contribute.html)
 [Community Principles →](community-principles.html)
 [Acts of Care →](acts-of-care.html)
+[Community Circles →](community-circles.html)
