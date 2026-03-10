@@ -42,3 +42,4 @@ This site is in its early stages. More pages will be added soon.
 [Acts of Care →](acts-of-care.html)
 [Community Circles →](community-circles.html)
 [Global Map of Circles →](global-map-of-circles.html)
+[Stories of Care →](stories-of-care.html)
