@@ -46,3 +46,4 @@ One moment of kindness becomes a ripple through a community.
 ## A Living Practice
 Acts of care are not tasks to complete.  
 They are ways of being — small, steady steps toward a world without hunger.
+[← Back to homepage](index.html)
