@@ -46,3 +46,4 @@ This site is in its early stages. More pages will be added soon.
 [Movement Practices →](movement-practices.html)
 [Movement Symbols →](movement-symbols.html)
 [Movement Language →](movement-language.html)
+[Pathways of Participation →](pathways-of-participation.html)
