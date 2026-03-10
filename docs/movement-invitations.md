@@ -78,3 +78,4 @@ The invitation is simple:
 **Come as you are.  
 Bring what you can.  
 Let care lead.**
+[← Back to homepage](index.html)
