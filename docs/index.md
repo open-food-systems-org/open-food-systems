@@ -1,13 +1,4 @@
-## File name
 
-```
-index.html
-```
-
-## Content
-
-```html
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -480,7 +471,6 @@ index.html
     </footer>
 </body>
 </html>
-```
 
 ## Status
 This site is in its early stages. More pages will be added soon.
