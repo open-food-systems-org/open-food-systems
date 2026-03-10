@@ -201,7 +201,7 @@
 <body>
     <header>
         <h1>Open Food Systems</h1>
-        <div class="subhead">A humane, gradual, and inclusive evolution of how humanity produces, shares, and experiences food</div>
+        <div class="subhead">A humane, gradual, and inclusive evolution of how humanity produces, shares, and experiences food.</div>
     </header>
     
     <div class="container">
@@ -235,7 +235,7 @@
             
             <p>It is not an organization, a charity, or a program. There are no leaders, no ranks, no membership. The movement grows through relationships, not structures.</p>
             
-            <p>The movement exists to restore dignity where it has been diminished, address hunger through human connection, strengthen communities through shared meals, create spaces of belonging, cultivate solidarity rather than charity, and reimagine food systems through care and presence.</p>
+            <p>The movement exists to restore dignity where it has been diminished, to address hunger through human connection, to strengthen communities through shared meals, to create spaces of belonging, to cultivate solidarity rather than charity, and to reimagine food systems through care and presence.</p>
             
             <p>Its purpose is both simple and profound: to make dignity a lived experience.</p>
         </div>
@@ -245,23 +245,23 @@
         <div class="values">
             <div class="value-item">
                 <h4>Dignity</h4>
-                <p>Every person is worthy of respect and care</p>
+                <p>Every person is worthy of respect and care.</p>
             </div>
             <div class="value-item">
                 <h4>Care</h4>
-                <p>Small, human acts shape the world</p>
+                <p>Small, human acts shape the world.</p>
             </div>
             <div class="value-item">
                 <h4>Humanity</h4>
-                <p>Connection is essential to wellbeing</p>
+                <p>Connection is essential to wellbeing.</p>
             </div>
             <div class="value-item">
                 <h4>Openness</h4>
-                <p>The movement belongs to everyone</p>
+                <p>The movement belongs to everyone.</p>
             </div>
             <div class="value-item">
                 <h4>Humility</h4>
-                <p>The work is done without ego or hierarchy</p>
+                <p>The work is done without ego or hierarchy.</p>
             </div>
         </div>
         
@@ -278,51 +278,167 @@
             <div class="section-grid">
                 <a href="docs/movement-overview" class="section-link">
                     Movement Overview
-                    <small>The complete philosophy and vision</small>
+                    <small></small>
                 </a>
                 <a href="docs/future-food-technologies" class="section-link">
                     Future Food Technologies
-                    <small>The technological ecosystem</small>
+                    <small></small>
                 </a>
                 <a href="docs/adaptation-pathways" class="section-link">
                     Adaptation Pathways
-                    <small>How industries evolve</small>
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
-                    Community Infrastructure
-                    <small>Shared kitchens, food hubs, refill stations</small>
+                    Dedication
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
-                    Generational Transition
-                    <small>How change unfolds over time</small>
+                    Roadmap
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
-                    Cultural Preservation
-                    <small>Honoring tradition in new forms</small>
+                    Mission
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
-                    Economic Opportunities
-                    <small>New jobs, new businesses, new roles</small>
+                    Vision
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Principles
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Community
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    How It Works
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Get Involved
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Resources
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    About Us
+                    <small></small>
                 </a>
                 <a href="docs/faq" class="section-link">
-                    Frequently Asked Questions
-                    <small>Answers for farmers, chefs, and everyone</small>
+                    FAQ
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Contact
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Founders' Note
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Glossary
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Values
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Roadmap for Humanity
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Open Letter to Humanity
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Global Goals
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Foundations of the Movement
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Living Documents
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Why This Matters
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    The Movement in One Page
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    How to Contribute
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Community Principles
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Acts of Care
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
                     Community Circles
-                    <small>Local gatherings rooted in shared meals</small>
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Global Map of Circles
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
                     Stories of Care
-                    <small>Lived moments from the movement</small>
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
                     Movement Practices
-                    <small>Simple rhythms that bring dignity into daily life</small>
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Symbols
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Language
+                    <small></small>
                 </a>
                 <a href="#" class="section-link">
                     Pathways of Participation
-                    <small>Gentle routes for people to walk</small>
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Evolution
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Framework
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Ethos
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Invitations
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Journey
+                    <small></small>
+                </a>
+                <a href="#" class="section-link">
+                    Movement Constellation
+                    <small></small>
                 </a>
             </div>
         </div>
@@ -354,7 +470,7 @@
         <p style="margin-top: 1rem; font-size: 0.875rem;">The movement belongs to everyone. No leaders, no membership, no permission needed.</p>
     </footer>
 </body>
-</html>  
+</html>
 
 ## Status
 This site is in its early stages. More pages will be added soon.
