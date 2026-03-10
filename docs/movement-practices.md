@@ -68,3 +68,4 @@ A movement rooted in compassion must include compassion for oneself.
 These practices are not rules.  
 They are gentle invitations to live the movement —  
 one meal, one act, one moment at a time.
+[← Back to homepage](index.html)
