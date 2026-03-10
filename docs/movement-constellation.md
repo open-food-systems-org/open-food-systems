@@ -87,3 +87,4 @@ They can walk at their own pace.
 
 The constellation is a map,  
 but the movement is alive.
+[← Back to homepage](index.html)
