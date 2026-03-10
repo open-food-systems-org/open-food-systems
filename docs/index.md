@@ -51,3 +51,4 @@ This site is in its early stages. More pages will be added soon.
 [Movement Framework →](movement-framework.html)
 [Movement Ethos →](movement-ethos.html)
 [Movement Invitations →](movement-invitations.html)
+[Movement Journey →](movement-journey.html)
