@@ -354,3 +354,4 @@ This site is in its early stages. More pages will be added soon.
 [Movement Overview →](movement-overview.html)
 [Explore Future Food Technologies →](future-food-technologies.md)
 [Adaptation Pathways →](adaptation-pathways.md)
+[Economic Benefits →](economic-benefits.html)
