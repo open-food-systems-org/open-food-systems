@@ -52,3 +52,4 @@ This site is in its early stages. More pages will be added soon.
 [Movement Ethos →](movement-ethos.html)
 [Movement Invitations →](movement-invitations.html)
 [Movement Journey →](movement-journey.html)
+[Movement Constellation →](movement-constellation.html)
