@@ -532,7 +532,6 @@ The best way to get answers is to participate—in community conversations, in l
 Your questions are welcome.
 Your voice matters.
 Your place is here.
-
----
+[← Back to homepage](index.html)
 
 
