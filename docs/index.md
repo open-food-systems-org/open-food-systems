@@ -38,3 +38,4 @@ This site is in its early stages. More pages will be added soon.
 [Why This Matters →](why-this-matters.html)
 [The Movement in One Page →](the-movement-in-one-page.html)
 [How to Contribute →](how-to-contribute.html)
+[Community Principles →](community-principles.html)
