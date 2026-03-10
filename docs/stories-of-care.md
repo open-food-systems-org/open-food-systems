@@ -64,3 +64,4 @@ by intention, kindness, and dignity.
 Anyone can contribute a story —  
 not by writing it here,  
 but by living it out in the world.
+[← Back to homepage](index.html)
