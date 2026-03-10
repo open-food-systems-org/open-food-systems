@@ -1434,6 +1434,8 @@ To every chef reading this: There is a place for you.
 
 To every food worker reading this: There is a place for you.
 
+To every person reading this: There is a place for you.
+
 To every community reading this: There is a place for you.
 
 The pathways are open.
