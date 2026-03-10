@@ -213,19 +213,19 @@
             <div class="pillar">
                 <h3>Movement Overview</h3>
                 <p>The philosophy and vision that guides everything—dignity, gradualism, inclusion, and respect for tradition.</p>
-                <a href="docs/movement-overview" class="pillar-link">Read the overview →</a>
+                <a href="docs/movement-overview.html" class="pillar-link">Read the overview →</a>
             </div>
             
             <div class="pillar">
                 <h3>Future Food Technologies</h3>
                 <p>The technological ecosystem that may support the next evolution: printers, cartridges, cultivated protein, fermentation, and more.</p>
-                <a href="docs/future-food-technologies" class="pillar-link">Explore technologies →</a>
+                <a href="docs/future-food-technologies.html" class="pillar-link">Explore technologies →</a>
             </div>
             
             <div class="pillar">
                 <h3>Adaptation Pathways</h3>
                 <p>How existing industries evolve gently—farms, supermarkets, restaurants, manufacturing, and every sector of the food economy.</p>
-                <a href="docs/adaptation-pathways" class="pillar-link">See the pathways →</a>
+                <a href="docs/adaptation-pathways.html" class="pillar-link">See the pathways →</a>
             </div>
         </div>
         
@@ -269,22 +269,22 @@
             <h2>Traditional Food Remains Central</h2>
             <p>The movement does <strong>not</strong> eliminate farms, vegetables, grains, legumes, fruits, herbs, spices, home cooking, cultural dishes, or family recipes. People will still cook the way they always have. Future food simply adds new options.</p>
             
-            <p style="margin-top: 1.5rem;"><a href="docs/movement-overview" style="color: #1a3b2f;">Read the full Movement Overview →</a></p>
+            <p style="margin-top: 1.5rem;"><a href="docs/movement-overview.html" style="color: #1a3b2f;">Read the full Movement Overview →</a></p>
         </div>
         
         <div class="sections">
             <h2 style="font-size: 1.75rem; font-weight: 400; margin-bottom: 1rem; color: #1a3b2f;">Explore All Pages</h2>
             
             <div class="section-grid">
-                <a href="docs/movement-overview" class="section-link">
+                <a href="docs/movement-overview.html" class="section-link">
                     Movement Overview
                     <small></small>
                 </a>
-                <a href="docs/future-food-technologies" class="section-link">
+                <a href="docs/future-food-technologies.html" class="section-link">
                     Future Food Technologies
                     <small></small>
                 </a>
-                <a href="docs/adaptation-pathways" class="section-link">
+                <a href="docs/adaptation-pathways.html" class="section-link">
                     Adaptation Pathways
                     <small></small>
                 </a>
@@ -328,7 +328,7 @@
                     About Us
                     <small></small>
                 </a>
-                <a href="docs/faq" class="section-link">
+                <a href="docs/faq.html" class="section-link">
                     FAQ
                     <small></small>
                 </a>
