@@ -91,3 +91,4 @@ There is only the next step.
 
 Choose the path that feels alive for you —  
 and let the movement grow through your presence.
+[← Back to homepage](index.html)
