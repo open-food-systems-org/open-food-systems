@@ -350,7 +350,7 @@
     </div>
     
     <footer>
-        <p>Open Food Systems — a living movement rooted in dignity and care</p>
+        <p>Open Food Systems — a living movement rooted in dignity and care.</p>
         <p style="margin-top: 1rem; font-size: 0.875rem;">The movement belongs to everyone. No leaders, no membership, no permission needed.</p>
     </footer>
 </body>
