@@ -55,3 +55,4 @@ This site is in its early stages. More pages will be added soon.
 [Movement Constellation →](movement-constellation.html)
 [Movement Overview →](movement-overview.html)
 [Explore Future Food Technologies →](future-food-technologies.md)
+[Adaptation Pathways →](adaptation-pathways.md)
