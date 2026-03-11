@@ -45,3 +45,4 @@ The movement encourages the creation of new, localized investment vehicles, such
 
 ## Conclusion: The Economic Choice
 The fundamental economic decision facing industry leaders is whether to continue investing in increasingly brittle, centralized systems or to pivot toward an <strong>expanded, resilient, and dignified ecosystem</strong>. True economic benefit in this new paradigm is realized not merely through immediate profit margins, but through the essential, long-term <strong>preservation of human and ecological capital</strong>.
+[← Back to homepage](index.html)
